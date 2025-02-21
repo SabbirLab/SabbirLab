@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabbir Ahmed | Portfolio</title>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {},
+            },
+        };
+    </script>
+
+    <!-- GSAP Animation Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+</head>
+<body class="bg-gray-900 text-white">
+    <!-- Header Section -->
+    <header class="text-center py-10">
+        <h1 class="text-5xl font-bold opacity-0">Sabbir Ahmed</h1>
+        <p class="text-xl mt-2 opacity-0">Electrical and Electronic Engineer | Research Enthusiast</p>
+    </header>
+
+    <!-- About Section -->
+    <section class="max-w-4xl mx-auto text-center my-10">
+        <h2 class="text-3xl font-semibold mb-4">About Me</h2>
+        <p class="text-lg">I am an aspiring Electrical and Electronic Engineer from Bagerhat, Khulna, Bangladesh. 
+           I completed my Diploma in Engineering in Electrical Technology from Gopalganj Polytechnic Institute
+           and currently pursuing my BSc in EEE at United International University. Passionate about technology,
+           innovation, and research.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="max-w-4xl mx-auto text-center my-10">
+        <h2 class="text-3xl font-semibold mb-4">Projects</h2>
+        <ul class="text-lg">
+            <li>⚡ RC Car using ESP32 & RF Module</li>
+            <li>⚡ Stepper Motor Control with ESP32</li>
+            <li>⚡ Simulation in CupCarbon for IoT-Based Detection</li>
+        </ul>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="max-w-4xl mx-auto text-center my-10">
+        <h2 class="text-3xl font-semibold mb-4">Skills</h2>
+        <div class="flex flex-wrap justify-center gap-4 text-lg">
+            <span class="bg-blue-600 px-4 py-2 rounded-full">MATLAB</span>
+            <span class="bg-blue-600 px-4 py-2 rounded-full">ESP32</span>
+            <span class="bg-blue-600 px-4 py-2 rounded-full">IoT</span>
+            <span class="bg-blue-600 px-4 py-2 rounded-full">CupCarbon</span>
+            <span class="bg-blue-600 px-4 py-2 rounded-full">Embedded Systems</span>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="max-w-4xl mx-auto text-center my-10">
+        <h2 class="text-3xl font-semibold mb-4">Contact</h2>
+        <p>Email: <a href="mailto:allexsabbir117@gmail.com" class="text-blue-400">allexsabbir117@gmail.com</a></p>
+        <p>Phone: 01989181983</p>
+        <p>
+            <a href="http://linkedin.com/in/sabbirahmed360" class="text-blue-400">LinkedIn</a> |
+            <a href="https://www.instagram.com/yes_sabbir" class="text-pink-400">Instagram</a> |
+            <a href="https://twitter.com/yes_sabbir" class="text-blue-300">Twitter</a>
+        </p>
+    </section>
+
+    <!-- GSAP Animation Script -->
+    <script>
+        gsap.to("h1", { duration: 1, y: 0, opacity: 1, ease: "power2.out" });
+        gsap.to("p:not(.text-blue-400):not(.text-pink-400):not(.text-blue-300)", { 
+            duration: 1, y: 0, opacity: 1, delay: 0.5, stagger: 0.2 
+        });
+    </script>
+</body>
+</html>
