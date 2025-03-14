@@ -8,9 +8,8 @@
 - 🎓 **BSc in Electrical and Electronic Engineering** at **United International University (UIU)**
 - 🎓 **Diploma in Electrical Technology** from **Gopalganj Polytechnic Institute**
 - 🔬 **Researcher at CENTeR (Center for Emerging Networks and Technologies Research)**
-- 🌍 **Campus Ambassador at UIU**
 - 🤖 **Intern at UIU Mars Rover Team**
-- 🏆 **EEE Day 2024 Batch Ambassador**
+- 🏆 **EEE Day 2024 Batch-241 Ambassador**
 
 ---
 
