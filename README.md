@@ -9,7 +9,7 @@
 - 🎓 **Diploma in Electrical Technology** from **Gopalganj Polytechnic Institute**
 - 🔬 **Researcher at CENTeR (Center for Emerging Networks and Technologies Research)**
 - 🤖 **Associate Member of Electrical Team at UIU Mars Rover Team**
-- 🏆 **EEE Day 2024 Batch-241 Ambassador Of Dept. Of EEE**
+- 🏆 **EEE Day 2024 Batch-241 Ambassador Of Dept. Of EEE At UIU**
 
 ---
 
