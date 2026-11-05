@@ -7,9 +7,8 @@
 ### 🚀 About Me
 - 🎓 **BSc in Electrical and Electronic Engineering** at **United International University (UIU)**
 - 🎓 **Diploma in Electrical Technology** from **Gopalganj Polytechnic Institute**
-- 🔬 **Researcher at CENTeR (Center for Emerging Networks and Technologies Research)**
 - 🤖 **Member of Electrical Team at UIU Mars Rover Team**
-- 🏆 **EEE Day 2024 Batch-241 Ambassador Of Dept. Of EEE At UIU**
+
 
 ---
 
@@ -39,7 +38,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbirahmed360)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yes_sabbir)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yes_sabbir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allexsabbir117@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahmedeee7@gmail.com)
 
 ---
 
