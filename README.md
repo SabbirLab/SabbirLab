@@ -105,7 +105,9 @@ Open to research collaboration, robotics and embedded projects, and internships 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SabbirLab&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats" />
+![Profile views](https://komarev.com/ghpvc/?username=SabbirLab&style=flat-square&color=F75C7E)
+![Followers](https://img.shields.io/github/followers/SabbirLab?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSabbirLab&query=%24.public_repos&label=Repos&style=flat-square&logo=github)
 
 *Building ideas, one circuit at a time.*
 
